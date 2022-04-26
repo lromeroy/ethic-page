@@ -318,6 +318,10 @@ caption {
   text-align: left;
 }
 
+quote {
+   font-size: 15px;
+}
+
 th {
   text-align: inherit;
   text-align: -webkit-match-parent;
